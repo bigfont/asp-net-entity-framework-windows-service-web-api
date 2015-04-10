@@ -16,7 +16,7 @@ namespace MyWebApi
     public partial class MyProjectModel : DbContext
     {
         public MyProjectModel()
-            : base("name=MyProjectEntities")
+            : base("name=MyProjectModelContainer")
         {
         }
     
