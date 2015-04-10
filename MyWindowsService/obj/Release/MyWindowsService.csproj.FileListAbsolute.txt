@@ -1,0 +1,9 @@
+c:\users\shaun.luttin\documents\visual studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Release\MyWindowsService.exe.config
+c:\users\shaun.luttin\documents\visual studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Release\MyWindowsService.exe
+c:\users\shaun.luttin\documents\visual studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Release\MyWindowsService.pdb
+c:\users\shaun.luttin\documents\visual studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Release\EntityFramework.dll
+c:\users\shaun.luttin\documents\visual studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Release\EntityFramework.SqlServer.dll
+c:\users\shaun.luttin\documents\visual studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Release\EntityFramework.xml
+c:\users\shaun.luttin\documents\visual studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Release\EntityFramework.SqlServer.xml
+c:\users\shaun.luttin\documents\visual studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\obj\Release\MyWindowsService.exe
+c:\users\shaun.luttin\documents\visual studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\obj\Release\MyWindowsService.pdb

@@ -13,7 +13,7 @@ namespace MyWebApi.Controllers
         public IEnumerable<Entity1> Get()
         {
             IEnumerable<Entity1> items = null;
-            using (var db = new MyProjectModel())
+            using (var db = new MyProjectModelContainer())
             {
                 // Create and save a new entity 
                 var entity1 = new Entity1();

@@ -13,9 +13,9 @@ namespace MyWebApi
     using System.Data.Entity;
     using System.Data.Entity.Infrastructure;
     
-    public partial class MyProjectModel : DbContext
+    public partial class MyProjectModelContainer : DbContext
     {
-        public MyProjectModel()
+        public MyProjectModelContainer()
             : base("name=MyProjectModelContainer")
         {
         }

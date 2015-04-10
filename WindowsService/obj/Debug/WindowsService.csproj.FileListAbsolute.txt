@@ -1,6 +1,0 @@
-c:\users\shaun.luttin\documents\visual studio 2012\Projects\EntityFrameworkProjectTypes\WindowsService\bin\Debug\WindowsService.exe.config
-c:\users\shaun.luttin\documents\visual studio 2012\Projects\EntityFrameworkProjectTypes\WindowsService\bin\Debug\WindowsService.exe
-c:\users\shaun.luttin\documents\visual studio 2012\Projects\EntityFrameworkProjectTypes\WindowsService\bin\Debug\WindowsService.pdb
-c:\users\shaun.luttin\documents\visual studio 2012\Projects\EntityFrameworkProjectTypes\WindowsService\obj\Debug\WindowsService.csprojResolveAssemblyReference.cache
-c:\users\shaun.luttin\documents\visual studio 2012\Projects\EntityFrameworkProjectTypes\WindowsService\obj\Debug\WindowsService.exe
-c:\users\shaun.luttin\documents\visual studio 2012\Projects\EntityFrameworkProjectTypes\WindowsService\obj\Debug\WindowsService.pdb

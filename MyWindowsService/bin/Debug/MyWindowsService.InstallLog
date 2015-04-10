@@ -1,0 +1,348 @@
+﻿Installing assembly 'C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe
+   logfile = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.InstallLog
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe assembly.
+Committing assembly 'C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe
+   logfile = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.InstallLog
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe assembly.
+Remove InstallState file because there are no installers.
+Uninstalling assembly 'C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe
+   logfile = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.InstallLog
+Removing EventLog source MyService.
+Service MyService is being removed from the system...
+Service MyService was successfully removed from the system.
+Installing assembly 'C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe
+   logfile = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.InstallLog
+Installing service MyService...
+Service MyService has been successfully installed.
+Creating EventLog source MyService in log Application...
+Committing assembly 'C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe
+   logfile = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.InstallLog
+Uninstalling assembly 'C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe
+   logfile = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.InstallLog
+Removing EventLog source MyService.
+Service MyService is being removed from the system...
+Service MyService was successfully removed from the system.
+Installing assembly 'C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe
+   logfile = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.InstallLog
+Installing service MyService...
+Creating EventLog source MyService in log Application...
+Rolling back assembly 'C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe
+   logfile = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.InstallLog
+Restoring event log to previous state for source MyService.
+Uninstalling assembly 'C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe
+   logfile = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.InstallLog
+Removing EventLog source MyService.
+Warning: The source MyService is not registered on the local machine.
+Service MyService is being removed from the system...
+Service MyService was successfully removed from the system.
+Installing assembly 'C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe
+   logfile = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.InstallLog
+Installing service MyService...
+Creating EventLog source MyService in log Application...
+Rolling back assembly 'C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe
+   logfile = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.InstallLog
+Restoring event log to previous state for source MyService.
+Installing assembly 'C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe
+   logfile = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.InstallLog
+Installing service MyService...
+Creating EventLog source MyService in log Application...
+Rolling back assembly 'C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe
+   logfile = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.InstallLog
+Restoring event log to previous state for source MyService.
+Uninstalling assembly 'C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe
+   logfile = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.InstallLog
+Removing EventLog source MyService.
+Warning: The source MyService is not registered on the local machine.
+Service MyService is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe
+   logfile = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.InstallLog
+Installing service MyService...
+Service MyService has been successfully installed.
+Creating EventLog source MyService in log Application...
+Committing assembly 'C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe
+   logfile = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.InstallLog
+Uninstalling assembly 'C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe
+   logfile = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.InstallLog
+Removing EventLog source MyService.
+Service MyService is being removed from the system...
+Service MyService was successfully removed from the system.
+Installing assembly 'C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe
+   logfile = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.InstallLog
+Installing service MyService...
+Service MyService has been successfully installed.
+Creating EventLog source MyService in log Application...
+Committing assembly 'C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe
+   logfile = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.InstallLog
+Uninstalling assembly 'C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe
+   logfile = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.InstallLog
+Removing EventLog source MyService.
+Service MyService is being removed from the system...
+Service MyService was successfully removed from the system.
+Installing assembly 'C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe
+   logfile = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.InstallLog
+Installing service MyService...
+Creating EventLog source MyService in log Application...
+Rolling back assembly 'C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe
+   logfile = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.InstallLog
+Restoring event log to previous state for source MyService.
+Uninstalling assembly 'C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe
+   logfile = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.InstallLog
+Removing EventLog source MyService.
+Warning: The source MyService is not registered on the local machine.
+Service MyService is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe
+   logfile = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.InstallLog
+Installing service MyService...
+Service MyService has been successfully installed.
+Creating EventLog source MyService in log Application...
+Committing assembly 'C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe
+   logfile = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.InstallLog
+Uninstalling assembly 'C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe
+   logfile = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.InstallLog
+Removing EventLog source MyService.
+Service MyService is being removed from the system...
+Service MyService was successfully removed from the system.
+Installing assembly 'C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe
+   logfile = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.InstallLog
+Installing service MyService...
+Service MyService has been successfully installed.
+Creating EventLog source MyService in log Application...
+Committing assembly 'C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe
+   logfile = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.InstallLog
+Uninstalling assembly 'C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe
+   logfile = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.InstallLog
+Removing EventLog source MyService.
+Service MyService is being removed from the system...
+Service MyService was successfully removed from the system.
+Installing assembly 'C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe
+   logfile = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.InstallLog
+Installing service MyService...
+Service MyService has been successfully installed.
+Creating EventLog source MyService in log Application...
+Committing assembly 'C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe
+   logfile = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.InstallLog
+Uninstalling assembly 'C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe
+   logfile = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.InstallLog
+Removing EventLog source MyService.
+Service MyService is being removed from the system...
+Service MyService was successfully removed from the system.
+Installing assembly 'C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe
+   logfile = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.InstallLog
+Installing service MyService...
+Service MyService has been successfully installed.
+Creating EventLog source MyService in log Application...
+Committing assembly 'C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe
+   logfile = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.InstallLog
+Uninstalling assembly 'C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe
+   logfile = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.InstallLog
+Removing EventLog source MyService.
+Service MyService is being removed from the system...
+Service MyService was successfully removed from the system.
+Installing assembly 'C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe
+   logfile = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.InstallLog
+Installing service MyService...
+Service MyService has been successfully installed.
+Creating EventLog source MyService in log Application...
+Committing assembly 'C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe
+   logfile = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.InstallLog
+Uninstalling assembly 'C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe
+   logfile = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.InstallLog
+Removing EventLog source MyService.
+Service MyService is being removed from the system...
+Service MyService was successfully removed from the system.
+Installing assembly 'C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe
+   logfile = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.InstallLog
+Installing service MyService...
+Service MyService has been successfully installed.
+Creating EventLog source MyService in log Application...
+Committing assembly 'C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe
+   logfile = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.InstallLog
+Uninstalling assembly 'C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe
+   logfile = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.InstallLog
+Removing EventLog source MyService.
+Service MyService is being removed from the system...
+Service MyService was successfully removed from the system.
+Installing assembly 'C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe
+   logfile = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.InstallLog
+Installing service MyService...
+Service MyService has been successfully installed.
+Creating EventLog source MyService in log Application...
+Committing assembly 'C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe
+   logfile = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.InstallLog
+Uninstalling assembly 'C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe
+   logfile = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.InstallLog
+Removing EventLog source MyService.
+Service MyService is being removed from the system...
+Service MyService was successfully removed from the system.
+Installing assembly 'C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe
+   logfile = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.InstallLog
+Installing service MyService...
+Service MyService has been successfully installed.
+Creating EventLog source MyService in log Application...
+Committing assembly 'C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe
+   logfile = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.InstallLog
+Uninstalling assembly 'C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe
+   logfile = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.InstallLog
+Removing EventLog source MyService.
+Service MyService is being removed from the system...
+Service MyService was successfully removed from the system.
+Installing assembly 'C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe
+   logfile = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.InstallLog
+Installing service MyService...
+Service MyService has been successfully installed.
+Creating EventLog source MyService in log Application...
+Committing assembly 'C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.exe
+   logfile = C:\Users\shaun.luttin\Documents\Visual Studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\MyWindowsService.InstallLog
