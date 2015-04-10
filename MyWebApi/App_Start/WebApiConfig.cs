@@ -16,8 +16,8 @@ namespace MyWebApi
 
             config.Routes.MapHttpRoute(
                 name: "DefaultApi",
-                routeTemplate: "api/{controller}/{id}",
-                defaults: new { id = RouteParameter.Optional }
+                routeTemplate: "{controller}",
+                defaults: new { controller = "Values" }
             );
         }
     }

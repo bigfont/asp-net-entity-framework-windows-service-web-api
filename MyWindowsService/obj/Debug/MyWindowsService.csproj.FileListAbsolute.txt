@@ -7,3 +7,4 @@ c:\users\shaun.luttin\documents\visual studio 2012\Projects\EntityFrameworkProje
 c:\users\shaun.luttin\documents\visual studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\bin\Debug\EntityFramework.SqlServer.xml
 c:\users\shaun.luttin\documents\visual studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\obj\Debug\MyWindowsService.exe
 c:\users\shaun.luttin\documents\visual studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\obj\Debug\MyWindowsService.pdb
+c:\users\shaun.luttin\documents\visual studio 2012\Projects\EntityFrameworkProjectTypes\MyWindowsService\obj\Debug\MyWindowsService.csprojResolveAssemblyReference.cache
