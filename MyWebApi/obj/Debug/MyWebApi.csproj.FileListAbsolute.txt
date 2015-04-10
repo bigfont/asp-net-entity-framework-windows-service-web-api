@@ -1,0 +1,17 @@
+c:\users\shaun.luttin\documents\visual studio 2012\Projects\EntityFrameworkProjectTypes\MyWebApi\bin\MyWebApi.dll
+c:\users\shaun.luttin\documents\visual studio 2012\Projects\EntityFrameworkProjectTypes\MyWebApi\bin\MyWebApi.pdb
+c:\users\shaun.luttin\documents\visual studio 2012\Projects\EntityFrameworkProjectTypes\MyWebApi\bin\EntityFramework.dll
+c:\users\shaun.luttin\documents\visual studio 2012\Projects\EntityFrameworkProjectTypes\MyWebApi\bin\EntityFramework.SqlServer.dll
+c:\users\shaun.luttin\documents\visual studio 2012\Projects\EntityFrameworkProjectTypes\MyWebApi\bin\Newtonsoft.Json.dll
+c:\users\shaun.luttin\documents\visual studio 2012\Projects\EntityFrameworkProjectTypes\MyWebApi\bin\System.Net.Http.Formatting.dll
+c:\users\shaun.luttin\documents\visual studio 2012\Projects\EntityFrameworkProjectTypes\MyWebApi\bin\System.Web.Http.dll
+c:\users\shaun.luttin\documents\visual studio 2012\Projects\EntityFrameworkProjectTypes\MyWebApi\bin\System.Web.Http.WebHost.dll
+c:\users\shaun.luttin\documents\visual studio 2012\Projects\EntityFrameworkProjectTypes\MyWebApi\bin\EntityFramework.xml
+c:\users\shaun.luttin\documents\visual studio 2012\Projects\EntityFrameworkProjectTypes\MyWebApi\bin\EntityFramework.SqlServer.xml
+c:\users\shaun.luttin\documents\visual studio 2012\Projects\EntityFrameworkProjectTypes\MyWebApi\bin\Newtonsoft.Json.xml
+c:\users\shaun.luttin\documents\visual studio 2012\Projects\EntityFrameworkProjectTypes\MyWebApi\bin\System.Net.Http.Formatting.xml
+c:\users\shaun.luttin\documents\visual studio 2012\Projects\EntityFrameworkProjectTypes\MyWebApi\bin\System.Web.Http.xml
+c:\users\shaun.luttin\documents\visual studio 2012\Projects\EntityFrameworkProjectTypes\MyWebApi\bin\System.Web.Http.WebHost.xml
+c:\users\shaun.luttin\documents\visual studio 2012\Projects\EntityFrameworkProjectTypes\MyWebApi\obj\Debug\MyWebApi.csprojResolveAssemblyReference.cache
+c:\users\shaun.luttin\documents\visual studio 2012\Projects\EntityFrameworkProjectTypes\MyWebApi\obj\Debug\MyWebApi.dll
+c:\users\shaun.luttin\documents\visual studio 2012\Projects\EntityFrameworkProjectTypes\MyWebApi\obj\Debug\MyWebApi.pdb
