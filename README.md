@@ -1,2 +1,1 @@
-# EntityFrameworkWindowsServiceWebApi
-Connects to localdb with the entity framework in both a Windows Service and a Web Api project.
+Answers this StackOverflow question: https://stackoverflow.com/questions/29018046/entity-framework-6-unable-to-load-the-specified-metadata-resource
